@@ -40,3 +40,7 @@ Frontend
 HTML5 – Semantic structure of the calendar grid and modal.
 
 CSS3 – Styling, animations, and responsive design (Flexbox & Grid).
+
+Author
+Adrija
+GitHub: https://github.com/adrijatarafder
